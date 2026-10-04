@@ -2,3 +2,11 @@
 *.png
 config.py
 __pycache__
+# model results (generated, not versioned)
+models/tuning_output/
+models/benchmark_output/
+models/ri_output/
+models/base_output/
+models/figures_check/
+combination/plots/
+.claude/
